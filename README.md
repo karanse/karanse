@@ -1,9 +1,6 @@
 ### Hello, it's Sema 👋
 
-<!--
-**karanse/karanse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - :woman_technologist: I’m a data scientist who is transitioning to web developer.
 - 🌱 I’m currently learning Javascript, React.
