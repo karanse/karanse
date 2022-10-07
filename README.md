@@ -9,7 +9,7 @@
 - :chart_with_upwards_trend:	 I like [visualization](https://public.tableau.com/app/profile/sema.karan#!/) besides coding.
 - 📫 Shoot me an [Email](mailto:karan18sema@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/sema-karan-93144029/) :)
 
-### 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-%20-green) 
+### 💻 Things I'm comfortable with:
+![Python](https://img.shields.io/badge/Python-%20-green) ![SQL](https://img.shields.io/badge/SQL-%20-orange) ![Tableau](https://img.shields.io/badge/Tableau-%20-blue) ![HTML](https://img.shields.io/badge/HTML-%20-lightgrey) ![CSS](https://img.shields.io/badge/CSS-%20-red) ![Javascript](https://img.shields.io/badge/Javascript-%20-yellow)
 
 
