@@ -3,10 +3,10 @@
 
 
 - :woman_technologist: I’m a data scientist who is transitioning to a web developer.
-- 🌱 I’m currently learning Javascript, React.
-- 👯 I’m looking to collaborate on beginner friendly web development projects.
-- 💬 Ask me anything about [data science career](https://superpeer.com/karanse?s=d).
-- :chart_with_upwards_trend:	 I like [visualization](https://public.tableau.com/app/profile/sema.karan#!/) besides coding.
+- 🌱 I’m currently learning Javascript in depth.
+- 👯 I’m looking to collaborate on beginner friendly HTML/CSS/JS projects.
+- 💬 Ask me anything about [data science career & career switch to engineering](https://superpeer.com/karanse?s=d).
+- :chart_with_upwards_trend: I like [visualization](https://public.tableau.com/app/profile/sema.karan#!/) besides coding.
 - ::writing_hand: You can use my [Web Development Journey Notion Template](https://workable-mask-834.notion.site/Frontend-Engineering-Journey-Template-288a2c42e9b445ddaa243dc6a3addeff) (inspired from [Damian's template](https://www.damiandemasi.com/)).
 - 📫 Shoot me an [Email](mailto:karan18sema@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/sema-karan-93144029/) :)
 
