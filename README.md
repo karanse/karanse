@@ -13,4 +13,7 @@
 ### 💻 Things I'm comfortable with:
 ![Python](https://img.shields.io/badge/Python-%20-green) ![SQL](https://img.shields.io/badge/SQL-%20-orange) ![Tableau](https://img.shields.io/badge/Tableau-%20-blue) ![HTML](https://img.shields.io/badge/HTML-%20-lightgrey) ![CSS](https://img.shields.io/badge/CSS-%20-red) ![Javascript](https://img.shields.io/badge/Javascript-%20-yellow)
 
+### 💻 Things I'm learning now:
+![Ruby](https://img.shields.io/badge/Ruby-%20-red) ![Ruby on Rails]([https://img.shields.io/badge/Ruby-%20-red](https://img.shields.io/badge/RubyonRails-%20-yello)https://img.shields.io/badge/RubyonRails-%20-yello) 
+
 
