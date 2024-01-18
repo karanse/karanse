@@ -3,7 +3,7 @@
 
 
 - :woman_technologist: I’m a data scientist who is transitioning to a web developer.
-- 🌱 I’m currently learning Javascript in depth & React.
+- 🌱 I’m currently learning web development @Lewagon.
 - 👯 I’m looking to collaborate on beginner friendly HTML/CSS/JS projects.
 - 💬 Ask me anything about [data science career & career switch to engineering](https://superpeer.com/karanse?s=d).
 - :chart_with_upwards_trend: I like [visualization](https://public.tableau.com/app/profile/sema.karan#!/) besides coding.
