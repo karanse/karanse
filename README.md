@@ -14,6 +14,6 @@
 ![Python](https://img.shields.io/badge/Python-%20-green) ![SQL](https://img.shields.io/badge/SQL-%20-orange) ![Tableau](https://img.shields.io/badge/Tableau-%20-blue) ![HTML](https://img.shields.io/badge/HTML-%20-lightgrey) ![CSS](https://img.shields.io/badge/CSS-%20-red) ![Javascript](https://img.shields.io/badge/Javascript-%20-yellow)
 
 ### 💻 Tools I'm learning now:
-![Ruby](https://img.shields.io/badge/Ruby-%20-red) ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-%20-yellow) 
+![Ruby](https://img.shields.io/badge/Ruby-%20-red) ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-%20-yellow) ![Vue.js](https://img.shields.io/badge/Vue.js-%20-green)
 
 
