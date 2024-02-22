@@ -4,7 +4,7 @@
 
 - :woman_technologist: I’m a data scientist who is transitioning to a web developer.
 - 🌱 I’m currently learning web development [@Lewagon](https://www.lewagon.com/).
-- 👯 I’m looking to collaborate on beginner friendly web development projects with tech stack JavaScript, Ruby, RoR, Vuejs, React.
+- 👯 I’m looking to collaborate on beginner friendly web development projects with JavaScript, Ruby, RoR, Vuejs, React.
 - 💬 Ask me anything about [data science career & career switch to engineering](https://superpeer.com/karanse?s=d).
 - :chart_with_upwards_trend: I like [visualization](https://public.tableau.com/app/profile/sema.karan#!/) besides coding.
 - :writing_hand: You can use my [Web Development Journey Notion Template](https://workable-mask-834.notion.site/Frontend-Engineering-Journey-Template-288a2c42e9b445ddaa243dc6a3addeff) (inspired from [Damian's template](https://www.damiandemasi.com/)).
