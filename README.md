@@ -36,6 +36,3 @@
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
 </div>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanse&layout=compact&theme=dark&langs_count=6" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanse" />
