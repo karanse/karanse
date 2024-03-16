@@ -17,18 +17,22 @@
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png" alt="Ruby on Rails" title="Ruby on Rails"/></code>
 </div>
 
-![Python](https://img.shields.io/badge/Python-%20-green) ![SQL](https://img.shields.io/badge/SQL-%20-orange) ![Tableau](https://img.shields.io/badge/Tableau-%20-blue) ![HTML](https://img.shields.io/badge/HTML-%20-lightgrey) ![CSS](https://img.shields.io/badge/CSS-%20-red) ![Javascript](https://img.shields.io/badge/Javascript-%20-yellow) ![Ruby](https://img.shields.io/badge/Ruby-%20-red) ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-%20-yellow) ![Vue.js](https://img.shields.io/badge/Vue.js-%20-green) ![React](https://img.shields.io/badge/React-%20-blue)
-
 
 ### 💻 Tools I'm learning now:
-![React](https://img.shields.io/badge/React-%20-blue) ![Node.js]()
+----------------------------------
+
+<div align="left">
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby"/></code>
+
+</div>
+
 
 
 
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelvp&layout=compact&theme=dark&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanse&layout=compact&theme=dark&langs_count=6" />
