@@ -38,3 +38,4 @@
 </div>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanse&layout=compact&theme=dark&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanse" />
